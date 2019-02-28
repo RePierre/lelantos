@@ -8,7 +8,10 @@ install_requires = [
 ]
 
 dev_requires = [
-    'python-language-server[all]'
+    'elpy',
+    'jedi',
+    'rope',
+    'yapf'
 ]
 
 tests_requires = [
