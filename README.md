@@ -6,6 +6,8 @@ A deep learning attempt at splitting phrases into clauses.
 ### Prerequisites ###
 To execute this code you'll need to either activate [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) or run it on a linux OS.
 
+As an alternative, you can install [VMware Workstation Player](https://www.youtube.com/watch?v=zGzcDkGgVe0) and then [install Ubuntu as a virtual machine](https://youtu.be/CdiKs6Hu9O4).
+
 Install the following packages:
 1. `python3`
 2. `python3-dev`
