@@ -1,6 +1,11 @@
 # Lelantos #
 A deep learning attempt at splitting phrases into clauses.
 
+## About ##
+This is an experiment for the `Introduction to Computational Linguistics` course at the Faculty of Computer Science.
+
+The experiment aims to see whether a `Sequence to Sequence` model can be trained to recognize end-of-clause marks.
+
 ## How to run ##
 
 ### Prerequisites ###
